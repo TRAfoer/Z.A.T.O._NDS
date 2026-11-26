@@ -1,0 +1,381 @@
+{
+  "editor": "ZATO manual music editor",
+  "version": 1,
+  "rate": 22050,
+  "status": "approved_for_build",
+  "marker_mode": "intro_end_equals_loop_start",
+  "saved_at": "2026-11-24T22:40:24+08:00",
+  "tracks": {
+    "menu.ogg": {
+      "intro_end_frame": 0,
+      "source_loop_start_frame": 0,
+      "source_loop_end_frame": 1411200,
+      "crossfade_frames": 441,
+      "keep_full": true,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "6846a2daeb9e7318f6ac96f528f90e8b5d4a4e66d52c7de06f3c8fe8c36f35ff"
+    },
+    "above.mp3": {
+      "intro_end_frame": 764290,
+      "source_loop_start_frame": 764290,
+      "source_loop_end_frame": 1527074,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "eada3fe0662c9ad344cd115ffbd0cd0e1c07af26541f6367a9b308214c9f0206"
+    },
+    "ambi9.mp3": {
+      "intro_end_frame": 282714,
+      "source_loop_start_frame": 282714,
+      "source_loop_end_frame": 1411473,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "64216c150103a1774de43aab5a9e3143dd2b402ef04a367c12296b51d5bbb464"
+    },
+    "canopy.mp3": {
+      "intro_end_frame": 656,
+      "source_loop_start_frame": 656,
+      "source_loop_end_frame": 1366156,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "6c496c0969583a8cc1113a6bba0813c431a3ad3f76548920efaa77c331177db5"
+    },
+    "child.ogg": {
+      "intro_end_frame": 551417,
+      "source_loop_start_frame": 551417,
+      "source_loop_end_frame": 1101175,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "bdc54fb8ddd65829043827206b4a3f5f3a8f43613aabd050900ee7806257c91b"
+    },
+    "clock.mp3": {
+      "intro_end_frame": 0,
+      "source_loop_start_frame": 0,
+      "source_loop_end_frame": 176400,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "2347fc846196b2785f37a0438baa18dfb217df7db7afdf37c2f36d1bf0647ad1"
+    },
+    "clouds.mp3": {
+      "intro_end_frame": 1027230,
+      "source_loop_start_frame": 1027230,
+      "source_loop_end_frame": 1540139,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "1d2235a6f5283d0a5ee6ef102b334234534d5540e1a167bf00b43de67b60ffa4"
+    },
+    "concerto.mp3": {
+      "intro_end_frame": 29931,
+      "source_loop_start_frame": 29931,
+      "source_loop_end_frame": 1299776,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "1b3c1b035f9c0d59701a36babee1b5d4d0a45026ea6c32f5bcadb2621f394c80"
+    },
+    "daily.mp3": {
+      "intro_end_frame": 103260,
+      "source_loop_start_frame": 103260,
+      "source_loop_end_frame": 925336,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "f4a27bdaeaf44197df7bab98fea49560421f2eafe0e7ac83da717e3b8d742f5c"
+    },
+    "dark.mp3": {
+      "intro_end_frame": 515,
+      "source_loop_start_frame": 515,
+      "source_loop_end_frame": 2470201,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "84dbb24c35932ef2f14769c6b9a902688ccedcf86476db82e251d35feaa479f8"
+    },
+    "hateme.mp3": {
+      "intro_end_frame": 1720,
+      "source_loop_start_frame": 1720,
+      "source_loop_end_frame": 1937323,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "7c172169d8f3e5a9e4cc8c1370aa9de86db4ff6b4e5fe02a8e8e7e8df8016eab"
+    },
+    "lullaby.mp3": {
+      "intro_end_frame": 0,
+      "source_loop_start_frame": 0,
+      "source_loop_end_frame": 1487582,
+      "crossfade_frames": 441,
+      "keep_full": true,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "2cafaa1f164ac2d556e157354a765d8dac0c3a3592f380767e33d5ed074d0921"
+    },
+    "machine.ogg": {
+      "intro_end_frame": 620,
+      "source_loop_start_frame": 620,
+      "source_loop_end_frame": 1992283,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "2338833b1333a8376071deadfec2db122148ecdfbe87806d15c6dbdd260886ea"
+    },
+    "mystery.ogg": {
+      "intro_end_frame": 0,
+      "source_loop_start_frame": 0,
+      "source_loop_end_frame": 1416170,
+      "crossfade_frames": 441,
+      "keep_full": true,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "27db6d586334cfec379aac82983360cb1e5c81a813147f5996b6b8b7f63e0e7a"
+    },
+    "newpath.mp3": {
+      "intro_end_frame": 20967,
+      "source_loop_start_frame": 20967,
+      "source_loop_end_frame": 1665003,
+      "crossfade_frames": 2205,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "2f7d2dbf55c854396136cdfc6a865f2c688592a30fae3e6666a9efe5219b911c"
+    },
+    "nii.ogg": {
+      "intro_end_frame": 0,
+      "source_loop_start_frame": 0,
+      "source_loop_end_frame": 1470000,
+      "crossfade_frames": 441,
+      "keep_full": true,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "6490217c14e2122db0884353964f4807ca3eb7c7246c0c23971e99c6bd94a1ac"
+    },
+    "oleg mazur.mp3": {
+      "intro_end_frame": 946286,
+      "source_loop_start_frame": 946286,
+      "source_loop_end_frame": 1887252,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "ee7135ead3915c0ebccf53e7055792d948504d0d6c70e9bac7cd7ef4f5f2a5fa"
+    },
+    "paradox.mp3": {
+      "intro_end_frame": 3454,
+      "source_loop_start_frame": 3454,
+      "source_loop_end_frame": 1150220,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "4ac355ae4355ad7040cd10d0bce47d9ddb8ec18d13cddddf2e767bc87ba1b443"
+    },
+    "pray.mp3": {
+      "intro_end_frame": 574673,
+      "source_loop_start_frame": 574673,
+      "source_loop_end_frame": 1145367,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "2d27827fb5811b4e83877c26a0fcd6967f07bcae4e7446dfb48be53f0a6fd6c3"
+    },
+    "signal.ogg": {
+      "intro_end_frame": 770925,
+      "source_loop_start_frame": 770925,
+      "source_loop_end_frame": 1212856,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "7c1d5fc11ca660f222f75858f5d1f67d2a29c3816ea38350c012a07d923adb23"
+    },
+    "slow snow.ogg": {
+      "intro_end_frame": 2541,
+      "source_loop_start_frame": 2541,
+      "source_loop_end_frame": 812190,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "5b9925683ec16d1065d2f13e9b2ea2b1134cf4bddea4cd982ab85bcc5ab5d0be"
+    },
+    "swimming.mp3": {
+      "intro_end_frame": 211470,
+      "source_loop_start_frame": 211470,
+      "source_loop_end_frame": 1259809,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "b83c5110987942df611ebc69e75afae793e49d5eeb62a43bc161706df04402a4"
+    },
+    "tightrope.mp3": {
+      "intro_end_frame": 2012,
+      "source_loop_start_frame": 2012,
+      "source_loop_end_frame": 1156413,
+      "crossfade_frames": 441,
+      "keep_full": false,
+      "reviewed": true,
+      "note": "",
+      "source_sha256": "e8c8e4ceaf2a793a47fb02eb8bb982a1bf7ba5a83015b303bad110bf81595471"
+    }
+  },
+  "edits": {
+    "above.mp3": {
+      "intro_end_frame": 764290,
+      "source_loop_start_frame": 764290,
+      "source_loop_end_frame": 1527074,
+      "crossfade_frames": 441,
+      "source_sha256": "eada3fe0662c9ad344cd115ffbd0cd0e1c07af26541f6367a9b308214c9f0206"
+    },
+    "ambi9.mp3": {
+      "intro_end_frame": 282714,
+      "source_loop_start_frame": 282714,
+      "source_loop_end_frame": 1411473,
+      "crossfade_frames": 441,
+      "source_sha256": "64216c150103a1774de43aab5a9e3143dd2b402ef04a367c12296b51d5bbb464"
+    },
+    "canopy.mp3": {
+      "intro_end_frame": 656,
+      "source_loop_start_frame": 656,
+      "source_loop_end_frame": 1366156,
+      "crossfade_frames": 441,
+      "source_sha256": "6c496c0969583a8cc1113a6bba0813c431a3ad3f76548920efaa77c331177db5"
+    },
+    "child.ogg": {
+      "intro_end_frame": 551417,
+      "source_loop_start_frame": 551417,
+      "source_loop_end_frame": 1101175,
+      "crossfade_frames": 441,
+      "source_sha256": "bdc54fb8ddd65829043827206b4a3f5f3a8f43613aabd050900ee7806257c91b"
+    },
+    "clock.mp3": {
+      "intro_end_frame": 0,
+      "source_loop_start_frame": 0,
+      "source_loop_end_frame": 176400,
+      "crossfade_frames": 441,
+      "source_sha256": "2347fc846196b2785f37a0438baa18dfb217df7db7afdf37c2f36d1bf0647ad1"
+    },
+    "clouds.mp3": {
+      "intro_end_frame": 1027230,
+      "source_loop_start_frame": 1027230,
+      "source_loop_end_frame": 1540139,
+      "crossfade_frames": 441,
+      "source_sha256": "1d2235a6f5283d0a5ee6ef102b334234534d5540e1a167bf00b43de67b60ffa4"
+    },
+    "concerto.mp3": {
+      "intro_end_frame": 29931,
+      "source_loop_start_frame": 29931,
+      "source_loop_end_frame": 1299776,
+      "crossfade_frames": 441,
+      "source_sha256": "1b3c1b035f9c0d59701a36babee1b5d4d0a45026ea6c32f5bcadb2621f394c80"
+    },
+    "daily.mp3": {
+      "intro_end_frame": 103260,
+      "source_loop_start_frame": 103260,
+      "source_loop_end_frame": 925336,
+      "crossfade_frames": 441,
+      "source_sha256": "f4a27bdaeaf44197df7bab98fea49560421f2eafe0e7ac83da717e3b8d742f5c"
+    },
+    "dark.mp3": {
+      "intro_end_frame": 515,
+      "source_loop_start_frame": 515,
+      "source_loop_end_frame": 2470201,
+      "crossfade_frames": 441,
+      "source_sha256": "84dbb24c35932ef2f14769c6b9a902688ccedcf86476db82e251d35feaa479f8"
+    },
+    "hateme.mp3": {
+      "intro_end_frame": 1720,
+      "source_loop_start_frame": 1720,
+      "source_loop_end_frame": 1937323,
+      "crossfade_frames": 441,
+      "source_sha256": "7c172169d8f3e5a9e4cc8c1370aa9de86db4ff6b4e5fe02a8e8e7e8df8016eab"
+    },
+    "machine.ogg": {
+      "intro_end_frame": 620,
+      "source_loop_start_frame": 620,
+      "source_loop_end_frame": 1992283,
+      "crossfade_frames": 441,
+      "source_sha256": "2338833b1333a8376071deadfec2db122148ecdfbe87806d15c6dbdd260886ea"
+    },
+    "newpath.mp3": {
+      "intro_end_frame": 20967,
+      "source_loop_start_frame": 20967,
+      "source_loop_end_frame": 1665003,
+      "crossfade_frames": 2205,
+      "source_sha256": "2f7d2dbf55c854396136cdfc6a865f2c688592a30fae3e6666a9efe5219b911c"
+    },
+    "oleg mazur.mp3": {
+      "intro_end_frame": 946286,
+      "source_loop_start_frame": 946286,
+      "source_loop_end_frame": 1887252,
+      "crossfade_frames": 441,
+      "source_sha256": "ee7135ead3915c0ebccf53e7055792d948504d0d6c70e9bac7cd7ef4f5f2a5fa"
+    },
+    "paradox.mp3": {
+      "intro_end_frame": 3454,
+      "source_loop_start_frame": 3454,
+      "source_loop_end_frame": 1150220,
+      "crossfade_frames": 441,
+      "source_sha256": "4ac355ae4355ad7040cd10d0bce47d9ddb8ec18d13cddddf2e767bc87ba1b443"
+    },
+    "pray.mp3": {
+      "intro_end_frame": 574673,
+      "source_loop_start_frame": 574673,
+      "source_loop_end_frame": 1145367,
+      "crossfade_frames": 441,
+      "source_sha256": "2d27827fb5811b4e83877c26a0fcd6967f07bcae4e7446dfb48be53f0a6fd6c3"
+    },
+    "signal.ogg": {
+      "intro_end_frame": 770925,
+      "source_loop_start_frame": 770925,
+      "source_loop_end_frame": 1212856,
+      "crossfade_frames": 441,
+      "source_sha256": "7c1d5fc11ca660f222f75858f5d1f67d2a29c3816ea38350c012a07d923adb23"
+    },
+    "slow snow.ogg": {
+      "intro_end_frame": 2541,
+      "source_loop_start_frame": 2541,
+      "source_loop_end_frame": 812190,
+      "crossfade_frames": 441,
+      "source_sha256": "5b9925683ec16d1065d2f13e9b2ea2b1134cf4bddea4cd982ab85bcc5ab5d0be"
+    },
+    "swimming.mp3": {
+      "intro_end_frame": 211470,
+      "source_loop_start_frame": 211470,
+      "source_loop_end_frame": 1259809,
+      "crossfade_frames": 441,
+      "source_sha256": "b83c5110987942df611ebc69e75afae793e49d5eeb62a43bc161706df04402a4"
+    },
+    "tightrope.mp3": {
+      "intro_end_frame": 2012,
+      "source_loop_start_frame": 2012,
+      "source_loop_end_frame": 1156413,
+      "crossfade_frames": 441,
+      "source_sha256": "e8c8e4ceaf2a793a47fb02eb8bb982a1bf7ba5a83015b303bad110bf81595471"
+    }
+  },
+  "approval_request": "全部使用立体声，且将成品nds文件的大小限制在64mb",
+  "approved_at": "2026-11-24T22:57:20+08:00",
+  "source_project": "C:\\Desktop\\ZATO_NDS\\experiments\\audio_lab\\out\\manual_music_edits.json",
+  "source_project_sha256": "61a925999c0ef6a2319749705e094d6f408d859b6f28ea582178ad0db716cc78",
+  "music_channels": 2,
+  "max_rom_bytes": 64000000
+}

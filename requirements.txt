@@ -1,0 +1,5 @@
+-r experiments/audio_lab/requirements.txt
+-r experiments/audio_lab/requirements-editor.txt
+Pillow
+opencv-python
+scipy
